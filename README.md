@@ -13,4 +13,4 @@ Research at the KTH Robotics, Perception & Learning Lab on estimating garment to
 Method: particle filtering over latent garment representations with rendering-based observation models.
 
 ## Tech
-Python • PyTorch • ROS2 • Computer Vision • Particle Filters
+Python • PyTorch • ROS2 • Computer Vision • State Estimation
