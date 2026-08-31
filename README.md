@@ -1,16 +1,17 @@
 # Mohammed Abbas
 
-M.Sc Robotics & Autonomous Systems @ KTH  
-Ex PM @ Amazon
+M.Sc. Robotics & Autonomous Systems @ KTH  
 
-Interested in robotics, perception, and machine learning.
+Research @ KTH Robotics, Perception and Learning Lab
 
-## Current Research
-**Topology State Estimation of Deformable Objects**
+I work on spatial intelligence, state estimation, and world models for robotics.
 
-Research at the KTH Robotics, Perception & Learning Lab on estimating garment topology during robotic manipulation under partial observation.
+[Website](https://mommeabbas.github.io)
 
-Method: particle filtering over latent garment representations with rendering-based observation models.
+## Interests
 
-## Tech
-Python • PyTorch • ROS2 • Computer Vision • State Estimation
+Spatial Intelligence • State Estimation • World Models • Control
+
+## Tools
+
+Python • ROS2 • MuJoCo • RoboSuite
